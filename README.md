@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabhat Khandelwal</h1>
+<h1 align="center"> I'm Prabhat Khandelwal</h1>
 <h3 align="center">"Built to track, built to grow."</h3>
 
 - 📫 How to reach me **khandelwalprabhat91@gmail.com**
