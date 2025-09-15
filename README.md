@@ -1,8 +1,8 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#00bfff;">Prabhat Khandelwal</span></h1>
-<h3 align="center">🚀 Built to track, built to grow. 📈</h3>
+<h1 align="center">Hey 👋, I'm <span style="color:#00bfff;">Prabhat Khandelwal</span></h1>
+<h3 align="center">🚀 Built to track, built to grow 📈</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+Cloud+Native+Explorer;Automation+Lover+%7C+Python+Craftsman;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Cloud+Native+Practitioner;Infra+Automation+Enthusiast;Systems+Thinker+%7C+Toolsmith;Exploring+DevOps+Horizons" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,18 +27,18 @@
 
 ---
 
-### 🌱 Currently Exploring
-- 🔧 Building scalable CI/CD pipelines
-- ☁️ Architecting cloud-native solutions on AWS
-- 🧠 Learning advanced Kubernetes orchestration
-- 📊 Automating infrastructure monitoring and alerting
+### 🌱 Currently Immersed In
+- 🔧 Building scalable CI/CD workflows
+- ☁️ Architecting cloud-native systems
+- 🧠 Mastering container orchestration
+- 📊 Automating infrastructure insights
 
 ---
 
 ### ✨ Fun Facts
-- 🧩 I love solving system puzzles and debugging complex infra issues
-- 🎯 My mantra: "Automate everything that repeats"
-- 🛠️ Weekend hobby: tinkering with Raspberry Pi and home automation
+- 🧩 I enjoy solving system puzzles and infra challenges
+- 🎯 Motto: "Automate the repeatable, optimize the essential"
+- 🛠️ Weekend hobby: tinkering with Raspberry Pi and smart home setups
 
 ---
 
@@ -55,5 +55,3 @@
 > 💬 *“Code is poetry. Infrastructure is the rhythm.”*
 
 ---
-
-
