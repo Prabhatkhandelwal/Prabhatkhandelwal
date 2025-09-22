@@ -19,3 +19,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+</p>
+
+---
+
+### 🌱 Currently Immersed In
+- 🔧 Building scalable CI/CD workflows
+- ☁️ Architecting cloud-native systems
+- 🧠 Mastering container orchestration
+- 📊 Automating infrastructure insights
+
+---
+
+### ✨ Fun Facts
+- 🧩 I enjoy solving system puzzles and infra challenges
+- 🎯 Motto: "Automate the repeatable, optimize the essential"
+
+---
+
+> 💬 *“Code is poetry. Infrastructure is the rhythm.”*
+
+---
